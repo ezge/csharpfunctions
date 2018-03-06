@@ -1,0 +1,6 @@
+c:\users\rea\documents\visual studio 2013\Projects\IlexiusDemo\IlexiusTasks\bin\Debug\IlexiusTasks.exe.config
+c:\users\rea\documents\visual studio 2013\Projects\IlexiusDemo\IlexiusTasks\bin\Debug\IlexiusTasks.exe
+c:\users\rea\documents\visual studio 2013\Projects\IlexiusDemo\IlexiusTasks\bin\Debug\IlexiusTasks.pdb
+c:\users\rea\documents\visual studio 2013\Projects\IlexiusDemo\IlexiusTasks\obj\Debug\IlexiusTasks.csprojResolveAssemblyReference.cache
+c:\users\rea\documents\visual studio 2013\Projects\IlexiusDemo\IlexiusTasks\obj\Debug\IlexiusTasks.exe
+c:\users\rea\documents\visual studio 2013\Projects\IlexiusDemo\IlexiusTasks\obj\Debug\IlexiusTasks.pdb
